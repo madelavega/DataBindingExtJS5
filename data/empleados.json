@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "nombre"   : 'Elena',
+            "apellidos": 'Nito del Bosque',
+            "dni"      : '1',
+            id : 1
+        },
+        {
+            "nombre"   : 'Mª Dolores',
+            "apellidos": 'de Cabeza Fuertes',
+            "dni"      : '112',
+            id : 2
+        },
+        {
+            "nombre"   : 'Tomás',
+            "apellidos": 'Turbado Gómez',
+            "dni"      : '2',
+            id : 3
+        },
+        {
+            "nombre"   : 'Armando',
+            "apellidos": 'Jaleo',
+            "dni"      : '3',
+            id : 4
+        }
+    ],
+    info  : {
+
+    }}
